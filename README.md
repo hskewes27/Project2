@@ -11,7 +11,7 @@ Some resources I used to code this assignment along with ai prompts
 - https://www.youtube.com/watch?v=6faDYCsTXZU
 - https://www.youtube.com/watch?v=E-BEOD0EPDA
 - https://www.youtube.com/watch?v=phNDrH6GckE I watched this but did not end up using flask
-  prompts used
+prompts used
 - Why am I getting a jwt error?
 - How should I got about encoding then decoding a jwt from a sqlite db?
 - How should I go about linting a python file?
